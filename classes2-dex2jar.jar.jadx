@@ -1,0 +1,33 @@
+{
+  "projectVersion": 1,
+  "files": [
+    "classes2-dex2jar.jar"
+  ],
+  "treeExpansions": [
+    [
+      "Source code",
+      "classes2-dex2jar.jar"
+    ]
+  ],
+  "codeData": {
+    "comments": [],
+    "renames": []
+  },
+  "openTabs": [
+    {
+      "type": "class",
+      "tabPath": "androidx.work.impl.utils.ForceStopRunnable",
+      "subPath": "java",
+      "caret": 2421,
+      "view": {
+        "x": 0,
+        "y": 565
+      },
+      "active": true
+    }
+  ],
+  "cacheDir": "C:\\Users\\Z.A Tech\\AppData\\Local\\skylot\\jadx\\cache\\projects\\classes2-dex2jar-3e662283c960e05548d038c0019ffc81",
+  "enableLiveReload": false,
+  "searchHistory": [],
+  "pluginOptions": {}
+}
